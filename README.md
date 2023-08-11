@@ -1,2 +1,2 @@
 # bsu
-Repository for university labs on fam
+Repository for university labs on famcs
