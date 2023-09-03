@@ -17,7 +17,7 @@ $\sum_{i=0}^{N} F(x_i)\Delta$x 	$\approx$ $\pi$
 
 Где каждый прямоугольник имеет ширину $\Delta$x и высоту $F(x_i)$ в середине (слева, справа) интервала
 
-<img src="https://www.dropbox.com/scl/fi/5hh0mny3nynulhc40p776/task1_image.jpg?dl=0&rlkey=vrs0wkurh10d14v0pnqtmioit" width=700/>
+![My Remote Image](https://www.dropbox.com/scl/fi/5hh0mny3nynulhc40p776/task1_image.jpg?dl=0&rlkey=vrs0wkurh10d14v0pnqtmioit)
 
  ## <span style="color: rgb(187, 187, 242)">Последовательная программа</span>
  ```C++
