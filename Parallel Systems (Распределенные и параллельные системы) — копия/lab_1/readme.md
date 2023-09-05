@@ -17,7 +17,9 @@ $\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\,\mathrm{d}x$ = $\pi$
 ![image](https://github.com/IBetULookGood/bsu/assets/90275659/9fb539f9-0cac-4b12-ad50-4a974f485df8)
 
 
-Где каждый прямоугольник имеет ширину $\Delta$x и высоту $F(x_i)$ в середине (слева, справа) интервала
+Где каждый прямоугольник имеет ширину ![image](https://github.com/IBetULookGood/bsu/assets/90275659/44de58e1-370b-427d-9169-e727fc01bfc5)
+ и высоту![image](https://github.com/IBetULookGood/bsu/assets/90275659/a3f42570-fde7-4291-bf05-d3a452560460)
+ в середине (слева, справа) интервала
 
 ![task1_image](https://github.com/IBetULookGood/bsu/assets/90275659/92f9cda0-a866-4c9e-9226-be3fc9ce39d9)
 
