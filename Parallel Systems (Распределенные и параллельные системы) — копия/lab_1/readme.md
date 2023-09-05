@@ -13,11 +13,12 @@ $\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\,\mathrm{d}x$ = $\pi$
 
 Мы можем аппроксимировать интеграл как сумму прямоугольников:
 
+
 $\sum_{i=0}^{N} F(x_i)\Delta$x 	$\approx$ $\pi$
 
 Где каждый прямоугольник имеет ширину $\Delta$x и высоту $F(x_i)$ в середине (слева, справа) интервала
 
-![My Remote Image](https://drive.google.com/file/d/1_IjvhovhZ9J0lhx8nAPskYB6NtFyeMgp/view?usp=sharing)
+![task1_image](https://github.com/IBetULookGood/bsu/assets/90275659/92f9cda0-a866-4c9e-9226-be3fc9ce39d9)
 
  ## <span style="color: rgb(187, 187, 242)">Последовательная программа</span>
  ```C++
