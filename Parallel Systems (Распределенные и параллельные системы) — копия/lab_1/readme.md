@@ -3,9 +3,9 @@
  ### Разработка многопоточных приложений на языке C под управлением операционной системы  Windows
 
  __Задание 1.1.__ *Вычисление числа 	$\pi$ - «Hello World!» многопоточного программирования*:
- + Разобрать программы из примеров 1.3, 1.4, 1.6 из [Методического пособия](/theory.pdf) (начинаем со страницы 11).
- + Для одной из программ выполнить вычислительные эксперименты для определения ускорения и эффективности параллельной программы [(1.8. Измерение времени, стр.26)](/theory.pdf).
- + Построить в приложении Microsoft Excel (любой табличный процессор) таблицу с результатами вычислительных экспериментов [(стр.28)](/theory.pdf).
+ + Разобрать программы из примеров 1.3, 1.4, 1.6 из [Методического пособия](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/lab_1/theory.pdf) (начинаем со страницы 11).
+ + Для одной из программ выполнить вычислительные эксперименты для определения ускорения и эффективности параллельной программы [(1.8. Измерение времени, стр.26)](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/lab_1/theory.pdf).
+ + Построить в приложении Microsoft Excel (любой табличный процессор) таблицу с результатами вычислительных экспериментов [(стр.28)](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F/lab_1/theory.pdf).
  
  ## <spans style="color: rgb(187, 187, 242)">Вычисление числа $\pi$</span>
 
@@ -17,11 +17,7 @@ $\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\,\mathrm{d}x$ = $\pi$
 ![image](https://github.com/IBetULookGood/bsu/assets/90275659/9fb539f9-0cac-4b12-ad50-4a974f485df8)
 
 
-Где каждый прямоугольник имеет ширину ![image](https://github.com/IBetULookGood/bsu/assets/90275659/90b84f69-4c23-4dc8-9784-43e9103c9d3b)
-
- и высоту ![image](https://github.com/IBetULookGood/bsu/assets/90275659/5a18bcb0-cf60-47d8-8643-e92898a57eb7)
-
- в середине (слева, справа) интервала
+Где каждый прямоугольник имеет ширину x и высоту F(x) в середине (слева, справа) интервала
 
 ![task1_image](https://github.com/IBetULookGood/bsu/assets/90275659/92f9cda0-a866-4c9e-9226-be3fc9ce39d9)
 
