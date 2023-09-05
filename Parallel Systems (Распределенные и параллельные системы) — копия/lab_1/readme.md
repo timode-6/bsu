@@ -17,8 +17,10 @@ $\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\,\mathrm{d}x$ = $\pi$
 ![image](https://github.com/IBetULookGood/bsu/assets/90275659/9fb539f9-0cac-4b12-ad50-4a974f485df8)
 
 
-Где каждый прямоугольник имеет ширину ![image](https://github.com/IBetULookGood/bsu/assets/90275659/44de58e1-370b-427d-9169-e727fc01bfc5)
- и высоту![image](https://github.com/IBetULookGood/bsu/assets/90275659/a3f42570-fde7-4291-bf05-d3a452560460)
+Где каждый прямоугольник имеет ширину ![image](https://github.com/IBetULookGood/bsu/assets/90275659/90b84f69-4c23-4dc8-9784-43e9103c9d3b)
+
+ и высоту ![image](https://github.com/IBetULookGood/bsu/assets/90275659/5a18bcb0-cf60-47d8-8643-e92898a57eb7)
+
  в середине (слева, справа) интервала
 
 ![task1_image](https://github.com/IBetULookGood/bsu/assets/90275659/92f9cda0-a866-4c9e-9226-be3fc9ce39d9)
