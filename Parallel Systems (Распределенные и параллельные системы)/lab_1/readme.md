@@ -2,7 +2,7 @@
 
  ### Разработка многопоточных приложений на языке C под управлением операционной системы  Windows
 
- __Задание 1.1.__ *Вычисление числа 	$\pi$ - «Hello World!» многопоточного программирования*:
+ __Задание 1.1.__ Вычисление числа 	$\pi$ - «Hello World!» многопоточного программирования:
  + Разобрать программы из примеров 1.3, 1.4, 1.6 из [Методического пособия](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)/lab_1/theory.pdf) (начинаем со страницы 11).
  + Для одной из программ выполнить вычислительные эксперименты для определения ускорения и эффективности параллельной программы [(1.8. Измерение времени, стр.26)](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)/lab_1/theory.pdf).
  + Построить в приложении Microsoft Excel (любой табличный процессор) таблицу с результатами вычислительных экспериментов [(стр.28)](https://github.com/IBetULookGood/bsu/blob/master/Parallel%20Systems%20(%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%BF%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B)/lab_1/theory.pdf).
