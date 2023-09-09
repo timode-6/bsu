@@ -9,15 +9,15 @@
  
  ## <spans style="color: rgb(187, 187, 242)">Вычисление числа $\pi$</span>
 
-$\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\,\mathrm{d}x$ = $\pi$
+$\int_0^1 \frac{\mathrm{4.0}}{(1+x^2)}\mathrm{d}x$ = $\pi$
 
 Мы можем аппроксимировать интеграл как сумму прямоугольников:
 
-$\sum_{i=0}^{N} F(x_i)\Delta$x 	$\approx$ $\pi$
+$\sum\limits_{i=0} ^{N} F(x_i) \Delta$ x 	$\approx$ $\pi$ 
 
-Где каждый прямоугольник имеет ширину $\Delta$x и высоту $F(x_i)$ в середине (слева, справа) интервала
+Где каждый прямоугольник имеет ширину $\Delta$ x и высоту $F(x_i)$ в середине (слева, справа) интервала
 
-<img src="https://www.dropbox.com/scl/fi/5hh0mny3nynulhc40p776/task1_image.jpg?dl=0&rlkey=vrs0wkurh10d14v0pnqtmioit" width=700/>
+![task1_image](https://github.com/IBetULookGood/bsu/assets/90275659/ae915d66-154c-4e7d-a103-7d36bbbd6e3f)
 
  ## <span style="color: rgb(187, 187, 242)">Последовательная программа</span>
  ```C++
