@@ -1,8 +1,11 @@
-# Simulations and Statistical Modeling (Имитационное и Статистическое Моделирование)
-1. [Моделировани Базовых Случайных Величин ☺](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab1)
-3. [Моделировани Непрерывных Случайных Величин ♥](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab3)
-2. [Моделирование Дискретных Случайных Величин ☻](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab2)
-4. [Вычисление значения интеграла Методом Монте-Карло ♣](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab4)
-5. [Решение системы линейных уравнений Методом Монте-Карло ♠](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab5)
-6. [Моделирование роботизированного трехканального обрабатывающего центра ○](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab6)
-7. [Моделирование процесса обслуживания коллектива пользователей ◙](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab7)
+# Лабораторная работа №5
+## Метод Монте-Карло
+Решить систему линейных уравнений, используя метод Монте-Карло
+1. Решить систему линейных алгебраических уравнений ***Ах=f*** методом Монте-Карло.
+2. Сравнить с решением данного уравнения, полученным в произвольном математическом пакете.
+3. Построить график зависимости точности решения от длиным цепи маркова и числа смоделированных цепей маркова.
+```
+    0.7 -0.2 0.3       3
+A = 0.4  1.3 0.1 , f = 1
+    0.2  0.1 1.1       1
+```

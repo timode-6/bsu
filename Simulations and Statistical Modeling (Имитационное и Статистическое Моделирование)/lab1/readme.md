@@ -1,8 +1,16 @@
-# Simulations and Statistical Modeling (Имитационное и Статистическое Моделирование)
-1. [Моделировани Базовых Случайных Величин ☺](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab1)
-3. [Моделировани Непрерывных Случайных Величин ♥](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab3)
-2. [Моделирование Дискретных Случайных Величин ☻](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab2)
-4. [Вычисление значения интеграла Методом Монте-Карло ♣](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab4)
-5. [Решение системы линейных уравнений Методом Монте-Карло ♠](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab5)
-6. [Моделирование роботизированного трехканального обрабатывающего центра ○](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab6)
-7. [Моделирование процесса обслуживания коллектива пользователей ◙](https://github.com/IBetULookGood/bsu/tree/master/Simulations%20and%20Statistical%20Modeling%20(%D0%98%D0%BC%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%B8%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)/lab7)
+# Лабораторная работа №1
+Моделирование базовых случайных величин
+## Условие
+1. Осуществить моделирование `n = 100` реализация БСВ с помощью [мультипликативного конгруэнтного метода (МКМ)](https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D0%B3%D1%80%D1%83%D1%8D%D0%BD%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4) с параметрами `a0`, `β`, `M = 2^31`.
+2. Осуществить моделирование `n = 1000` реализация БСВ с помощью [метода Макларена-Марсальи](https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%9C%D0%B0%D0%BA%D0%BB%D0%B0%D1%80%D0%B5%D0%BD%D0%B0_%E2%80%94_%D0%9C%D0%B0%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%B8) (один датчик должен быть мультипликативно конгруэнтный (п.1), второй - на выбор). `K` - объем вспомогательной таблицы.
+3. Проверить точность моделирования обоих датчиков (п.1 и п.2) с помощью [критерия согласия Колмогорова](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F_%D0%9A%D0%BE%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0) и  [$\chi^{2}$-критерия Пирсона](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B9_%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F_%D0%9A%D0%BE%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B0) с уровнем значимости `ε = 0.05`
+## Результат
+``````
+pearson chi:
+    mcg:    k = 30 | 29.230 < 42.557 | test passed
+    random: k = 30 | 23.070 < 42.557 | test passed
+    mmg:    k = 30 | 25.750 < 42.557 | test passed
+
+kolmogorov, sqrt(n)*dn
+    mcg:    0.570 < 1.360 | test passed
+    mmg:    0.515 < 1.360 | test passed
