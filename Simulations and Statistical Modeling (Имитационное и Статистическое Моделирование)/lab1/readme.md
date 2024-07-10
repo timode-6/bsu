@@ -7,10 +7,9 @@
 ## Результат
 ``````
 pearson chi:
-    mcg:    k = 30 | 29.230 < 42.557 | test passed
-    random: k = 30 | 23.070 < 42.557 | test passed
-    mmg:    k = 30 | 25.750 < 42.557 | test passed
+    Multiplicative congruent method: Power_divergenceResult(statistic=6.119999999999999, pvalue=0.7278506992125442)
+    McLaren-Marsaglia method: Power_divergenceResult(statistic=4.56, pvalue=0.8708559358415972)
 
 kolmogorov, sqrt(n)*dn
-    mcg:    0.570 < 1.360 | test passed
-    mmg:    0.515 < 1.360 | test passed
+    Multiplicative congruent method: KstestResult(statistic=0.024141555260866893, pvalue=0.5959242851242297, statistic_location=0.14585844473913312, statistic_sign=1)
+    McLaren-Marsaglia method: KstestResult(statistic=0.03369488661363723, pvalue=0.20167390541945118, statistic_location=0.3206948866136372, statistic_sign=-1)
