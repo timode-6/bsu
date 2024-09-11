@@ -1,0 +1,9 @@
+# Programming technology
+## Технология программирования 
+
+* [lab1](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab1) - ***Дизайнер Фигур*** - цель проекта - разработка и реализация программы, отображающей различные геометрические фигуры с заданными пользователем свойствами.
+* [lab2](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab2) - ***Учет Проектов IT*** - цель проекта заключается в управлении и отслеживании хода выполнения проектов в IT-компании.
+* [lab3](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab3) - ***Pyеhon программирование***
+* [lab4](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab4) - ***Решение прикладных задач с помощью Python***
+* [lab5](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab5) - ***Python программирование и алгоритмы***
+* [lab6](https://github.com/timode-6/bsu/tree/master/Programming%20technology%20(T%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)/lab6) - ***Знакомство с ASP.NET***
