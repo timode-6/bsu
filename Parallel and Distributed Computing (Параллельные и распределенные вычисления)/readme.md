@@ -1,0 +1,5 @@
+# Parallel and Distributed Computing
+## Параллельные и распределнные вычисления 
+
+* [lab1](https://github.com/timode-6/bsu/tree/master/Parallel%20and%20Distributed%20Computing%20(%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)/lab1) - Исследование влияния размеров матриц и блоков на время работы реализации блочного алгоритма перемножения матриц на многоядреном CPU 
+* [lab3](https://github.com/timode-6/bsu/tree/master/Parallel%20and%20Distributed%20Computing%20(%D0%9F%D0%B0%D1%80%D0%B0%D0%BB%D0%BB%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)/lab3) - Параллельная MPI-реализация алгоритма перемножения матриц
