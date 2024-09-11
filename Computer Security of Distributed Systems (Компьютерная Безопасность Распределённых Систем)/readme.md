@@ -1,0 +1,6 @@
+# Computer Security of Distributed Systems
+## Компьютерная Безопасность Распределенных Систем
+
+* [lab1](https://github.com/timode-6/bsu/tree/master/Computer%20Security%20of%20Distributed%20Systems%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC)/lab1) - Криптоанализ методов простой подстановки
+* [lab2](https://github.com/timode-6/bsu/tree/master/Computer%20Security%20of%20Distributed%20Systems%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC)/lab2) - «Защищенный блокнот»
+* [lab3](https://github.com/timode-6/bsu/tree/master/Computer%20Security%20of%20Distributed%20Systems%20(%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%91%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D1%85%20%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC)/lab3) - Криптосистемы на основе эллиптических кривых
